@@ -1,0 +1,11 @@
+This project contains a set of classes that implement some functionality.
+At the same time it contains, under the respective test folders, sample test
+code with explanations on what it does.
+
+To build the project you require java and maven in your path.
+run:
+mvn clean install
+
+It is recommended you open the project for viewing using an IDE which supports maven.
+That way you will have a better view of the relationship between implementation code and
+test classes.
